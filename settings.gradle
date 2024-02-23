@@ -14,3 +14,6 @@ dependencyResolutionManagement {
 }
 rootProject.name = "ShoppingListTask"
 include ':app'
+include ':data'
+include ':domain'
+include ':presentation'
